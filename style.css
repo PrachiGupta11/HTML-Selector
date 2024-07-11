@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.BigHero {
+  color: red;
+}
+
+.boxFit {
+  color: blue;
+}
+
+#Priority {
+  font-size: 35px;
+}
+
+#TextCont {
+  font-size: 28px;
+  color: #7d7d7d;
+}
+
+.BigHero:hover {
+  font-size: 42px;
+}
+
+.boxFit:hover {
+  font-size: 42px;
+}
